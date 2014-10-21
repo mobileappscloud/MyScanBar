@@ -15,6 +15,27 @@
 		046E3DC619F5E90F002FE988 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DC519F5E90F002FE988 /* Images.xcassets */; };
 		046E3DC919F5E90F002FE988 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DC719F5E90F002FE988 /* LaunchScreen.xib */; };
 		046E3DD519F5E910002FE988 /* ScanBarSOURCECODETests.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E3DD419F5E910002FE988 /* ScanBarSOURCECODETests.m */; };
+		046E3DFB19F5EA6A002FE988 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E3DDF19F5EA6A002FE988 /* AppDelegate.m */; };
+		046E3DFC19F5EA6A002FE988 /* FaceBookShareButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DE119F5EA6A002FE988 /* FaceBookShareButton.png */; };
+		046E3DFD19F5EA6A002FE988 /* TwitterShareButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DE219F5EA6A002FE988 /* TwitterShareButton.png */; };
+		046E3DFE19F5EA6A002FE988 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DE319F5EA6A002FE988 /* button.png */; };
+		046E3DFF19F5EA6A002FE988 /* list-item.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DE419F5EA6A002FE988 /* list-item.png */; };
+		046E3E0019F5EA6A002FE988 /* icon-house.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DE519F5EA6A002FE988 /* icon-house.png */; };
+		046E3E0119F5EA6A002FE988 /* scan.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DE619F5EA6A002FE988 /* scan.png */; };
+		046E3E0219F5EA6A002FE988 /* sharethis.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DE719F5EA6A002FE988 /* sharethis.png */; };
+		046E3E0319F5EA6A002FE988 /* barscan.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DE819F5EA6A002FE988 /* barscan.png */; };
+		046E3E0419F5EA6A002FE988 /* browncarrot.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DE919F5EA6A002FE988 /* browncarrot.png */; };
+		046E3E0519F5EA6A002FE988 /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DEA19F5EA6A002FE988 /* share.png */; };
+		046E3E0619F5EA6A002FE988 /* pen-paper.png in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DEB19F5EA6A002FE988 /* pen-paper.png */; };
+		046E3E0719F5EA6A002FE988 /* Barcode.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E3DEC19F5EA6A002FE988 /* Barcode.m */; };
+		046E3E0819F5EA6A002FE988 /* beep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DED19F5EA6A002FE988 /* beep.mp3 */; };
+		046E3E0919F5EA6A002FE988 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E3DEF19F5EA6A002FE988 /* SettingsViewController.m */; };
+		046E3E0A19F5EA6A002FE988 /* ScannerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E3DF119F5EA6A002FE988 /* ScannerViewController.m */; };
+		046E3E0B19F5EA6A002FE988 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046E3DF219F5EA6A002FE988 /* Main_iPhone.storyboard */; };
+		046E3E0C19F5EA6A002FE988 /* BadIngredientsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E3DF419F5EA6A002FE988 /* BadIngredientsTableViewController.m */; };
+		046E3E0D19F5EA6A002FE988 /* ShareViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E3DF619F5EA6A002FE988 /* ShareViewController.m */; };
+		046E3E0E19F5EA6A002FE988 /* DetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E3DF819F5EA6A002FE988 /* DetailsViewController.m */; };
+		046E3E0F19F5EA6A002FE988 /* AllergicIngredient.m in Sources */ = {isa = PBXBuildFile; fileRef = 046E3DFA19F5EA6A002FE988 /* AllergicIngredient.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +63,35 @@
 		046E3DCE19F5E910002FE988 /* ScanBarSOURCECODETests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScanBarSOURCECODETests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		046E3DD319F5E910002FE988 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		046E3DD419F5E910002FE988 /* ScanBarSOURCECODETests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScanBarSOURCECODETests.m; sourceTree = "<group>"; };
+		046E3DDE19F5EA6A002FE988 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/AppDelegate.h"; sourceTree = "<group>"; };
+		046E3DDF19F5EA6A002FE988 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/AppDelegate.m"; sourceTree = "<group>"; };
+		046E3DE019F5EA6A002FE988 /* Barcode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Barcode.h; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/Barcode.h"; sourceTree = "<group>"; };
+		046E3DE119F5EA6A002FE988 /* FaceBookShareButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = FaceBookShareButton.png; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/FaceBookShareButton.png"; sourceTree = "<group>"; };
+		046E3DE219F5EA6A002FE988 /* TwitterShareButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = TwitterShareButton.png; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/TwitterShareButton.png"; sourceTree = "<group>"; };
+		046E3DE319F5EA6A002FE988 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = button.png; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/button.png"; sourceTree = "<group>"; };
+		046E3DE419F5EA6A002FE988 /* list-item.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "list-item.png"; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/list-item.png"; sourceTree = "<group>"; };
+		046E3DE519F5EA6A002FE988 /* icon-house.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-house.png"; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/icon-house.png"; sourceTree = "<group>"; };
+		046E3DE619F5EA6A002FE988 /* scan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = scan.png; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/scan.png"; sourceTree = "<group>"; };
+		046E3DE719F5EA6A002FE988 /* sharethis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sharethis.png; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/sharethis.png"; sourceTree = "<group>"; };
+		046E3DE819F5EA6A002FE988 /* barscan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = barscan.png; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/barscan.png"; sourceTree = "<group>"; };
+		046E3DE919F5EA6A002FE988 /* browncarrot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = browncarrot.png; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/browncarrot.png"; sourceTree = "<group>"; };
+		046E3DEA19F5EA6A002FE988 /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = share.png; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/share.png"; sourceTree = "<group>"; };
+		046E3DEB19F5EA6A002FE988 /* pen-paper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pen-paper.png"; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/pen-paper.png"; sourceTree = "<group>"; };
+		046E3DEC19F5EA6A002FE988 /* Barcode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Barcode.m; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/Barcode.m"; sourceTree = "<group>"; };
+		046E3DED19F5EA6A002FE988 /* beep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = beep.mp3; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/beep.mp3"; sourceTree = "<group>"; };
+		046E3DEE19F5EA6A002FE988 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SettingsViewController.h; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/SettingsViewController.h"; sourceTree = "<group>"; };
+		046E3DEF19F5EA6A002FE988 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SettingsViewController.m; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/SettingsViewController.m"; sourceTree = "<group>"; };
+		046E3DF019F5EA6A002FE988 /* ScannerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScannerViewController.h; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/ScannerViewController.h"; sourceTree = "<group>"; };
+		046E3DF119F5EA6A002FE988 /* ScannerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScannerViewController.m; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/ScannerViewController.m"; sourceTree = "<group>"; };
+		046E3DF219F5EA6A002FE988 /* Main_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main_iPhone.storyboard; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/Main_iPhone.storyboard"; sourceTree = "<group>"; };
+		046E3DF319F5EA6A002FE988 /* BadIngredientsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BadIngredientsTableViewController.h; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/BadIngredientsTableViewController.h"; sourceTree = "<group>"; };
+		046E3DF419F5EA6A002FE988 /* BadIngredientsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BadIngredientsTableViewController.m; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/BadIngredientsTableViewController.m"; sourceTree = "<group>"; };
+		046E3DF519F5EA6A002FE988 /* ShareViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ShareViewController.h; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/ShareViewController.h"; sourceTree = "<group>"; };
+		046E3DF619F5EA6A002FE988 /* ShareViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ShareViewController.m; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/ShareViewController.m"; sourceTree = "<group>"; };
+		046E3DF719F5EA6A002FE988 /* DetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetailsViewController.h; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/DetailsViewController.h"; sourceTree = "<group>"; };
+		046E3DF819F5EA6A002FE988 /* DetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetailsViewController.m; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/DetailsViewController.m"; sourceTree = "<group>"; };
+		046E3DF919F5EA6A002FE988 /* AllergicIngredient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AllergicIngredient.h; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/AllergicIngredient.h"; sourceTree = "<group>"; };
+		046E3DFA19F5EA6A002FE988 /* AllergicIngredient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AllergicIngredient.m; path = "../../../Desktop/13942 Saved Data/Users/imac/Desktop/AppPicsJunk/It'sHalal/It'sHalal/AllergicIngredient.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +141,35 @@
 				046E3DC519F5E90F002FE988 /* Images.xcassets */,
 				046E3DC719F5E90F002FE988 /* LaunchScreen.xib */,
 				046E3DBC19F5E90F002FE988 /* ScanBarSOURCECODE.xcdatamodeld */,
+				046E3DDE19F5EA6A002FE988 /* AppDelegate.h */,
+				046E3DDF19F5EA6A002FE988 /* AppDelegate.m */,
+				046E3DE019F5EA6A002FE988 /* Barcode.h */,
+				046E3DE119F5EA6A002FE988 /* FaceBookShareButton.png */,
+				046E3DE219F5EA6A002FE988 /* TwitterShareButton.png */,
+				046E3DE319F5EA6A002FE988 /* button.png */,
+				046E3DE419F5EA6A002FE988 /* list-item.png */,
+				046E3DE519F5EA6A002FE988 /* icon-house.png */,
+				046E3DE619F5EA6A002FE988 /* scan.png */,
+				046E3DE719F5EA6A002FE988 /* sharethis.png */,
+				046E3DE819F5EA6A002FE988 /* barscan.png */,
+				046E3DE919F5EA6A002FE988 /* browncarrot.png */,
+				046E3DEA19F5EA6A002FE988 /* share.png */,
+				046E3DEB19F5EA6A002FE988 /* pen-paper.png */,
+				046E3DEC19F5EA6A002FE988 /* Barcode.m */,
+				046E3DED19F5EA6A002FE988 /* beep.mp3 */,
+				046E3DEE19F5EA6A002FE988 /* SettingsViewController.h */,
+				046E3DEF19F5EA6A002FE988 /* SettingsViewController.m */,
+				046E3DF019F5EA6A002FE988 /* ScannerViewController.h */,
+				046E3DF119F5EA6A002FE988 /* ScannerViewController.m */,
+				046E3DF219F5EA6A002FE988 /* Main_iPhone.storyboard */,
+				046E3DF319F5EA6A002FE988 /* BadIngredientsTableViewController.h */,
+				046E3DF419F5EA6A002FE988 /* BadIngredientsTableViewController.m */,
+				046E3DF519F5EA6A002FE988 /* ShareViewController.h */,
+				046E3DF619F5EA6A002FE988 /* ShareViewController.m */,
+				046E3DF719F5EA6A002FE988 /* DetailsViewController.h */,
+				046E3DF819F5EA6A002FE988 /* DetailsViewController.m */,
+				046E3DF919F5EA6A002FE988 /* AllergicIngredient.h */,
+				046E3DFA19F5EA6A002FE988 /* AllergicIngredient.m */,
 				046E3DB519F5E90F002FE988 /* Supporting Files */,
 			);
 			path = ScanBarSOURCECODE;
@@ -202,9 +281,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				046E3E0619F5EA6A002FE988 /* pen-paper.png in Resources */,
+				046E3DFD19F5EA6A002FE988 /* TwitterShareButton.png in Resources */,
+				046E3E0419F5EA6A002FE988 /* browncarrot.png in Resources */,
+				046E3E0219F5EA6A002FE988 /* sharethis.png in Resources */,
+				046E3E0B19F5EA6A002FE988 /* Main_iPhone.storyboard in Resources */,
+				046E3DFE19F5EA6A002FE988 /* button.png in Resources */,
+				046E3E0119F5EA6A002FE988 /* scan.png in Resources */,
 				046E3DC419F5E90F002FE988 /* Main.storyboard in Resources */,
+				046E3E0019F5EA6A002FE988 /* icon-house.png in Resources */,
 				046E3DC919F5E90F002FE988 /* LaunchScreen.xib in Resources */,
 				046E3DC619F5E90F002FE988 /* Images.xcassets in Resources */,
+				046E3DFC19F5EA6A002FE988 /* FaceBookShareButton.png in Resources */,
+				046E3E0819F5EA6A002FE988 /* beep.mp3 in Resources */,
+				046E3E0319F5EA6A002FE988 /* barscan.png in Resources */,
+				046E3DFF19F5EA6A002FE988 /* list-item.png in Resources */,
+				046E3E0519F5EA6A002FE988 /* share.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -224,8 +316,16 @@
 			files = (
 				046E3DBB19F5E90F002FE988 /* AppDelegate.m in Sources */,
 				046E3DBE19F5E90F002FE988 /* ScanBarSOURCECODE.xcdatamodeld in Sources */,
+				046E3E0E19F5EA6A002FE988 /* DetailsViewController.m in Sources */,
 				046E3DC119F5E90F002FE988 /* ViewController.m in Sources */,
+				046E3E0A19F5EA6A002FE988 /* ScannerViewController.m in Sources */,
 				046E3DB819F5E90F002FE988 /* main.m in Sources */,
+				046E3E0719F5EA6A002FE988 /* Barcode.m in Sources */,
+				046E3E0F19F5EA6A002FE988 /* AllergicIngredient.m in Sources */,
+				046E3DFB19F5EA6A002FE988 /* AppDelegate.m in Sources */,
+				046E3E0C19F5EA6A002FE988 /* BadIngredientsTableViewController.m in Sources */,
+				046E3E0D19F5EA6A002FE988 /* ShareViewController.m in Sources */,
+				046E3E0919F5EA6A002FE988 /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
